@@ -1,4 +1,4 @@
-# Datat Scientist 
+# Data Scientist 
 
 ### Education 
 MSc in Advanced Economics and Finance (Cand. oecon) @ Copenhagen Business School
