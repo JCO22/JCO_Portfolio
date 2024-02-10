@@ -1,5 +1,3 @@
-""johncoyaas.github.io""
-
 # Datat Scientist 
 
 ### Education 
