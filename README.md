@@ -2,7 +2,7 @@
 
 ### Education 
 - MSc., Advanced Economics and Finance (Cand. oecon) | Copenhagen Business School (_Dec 2023_)
-•Python for the Financial Economist (Python)
+(_•Python for the Financial Economist (Python)
 •Introduction to Machine Learning for Economics (R, Excel)
 •Derivatives and Risk Management (Excel)
 •Foundations of Blockchain, Cryptocurrencies and Smart Contracts (Hyperledger Fabric / PowerShell)
@@ -13,7 +13,7 @@
 •Financial Econometrics (R, Excel)
 •Advanced Industrial Organization
 •Asset Pricing (Excel)
-•Contract, Agency and Game Theory
+•Contract, Agency and Game Theory_)
 - BBA., Business development for SMB | Handelshøyskolen BI (_May 2019_)
 
 ### Work Experience
