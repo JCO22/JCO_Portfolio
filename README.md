@@ -1,9 +1,8 @@
 # Data Scientist 
 
 ### Education 
-- MSc., Advanced Economics and Finance (Cand. oecon) | Copenhagen Business School (_January 2024_)
-- BBA.,
-Business development for SMB @ Handelshøyskolen BI
+- MSc., Advanced Economics and Finance (Cand. oecon) | Copenhagen Business School (_Dec 2023_)
+- BBA., Business development for SMB | Handelshøyskolen BI (_May 2019_)
 
 ### Work Experience
 **Compliance analyst @ Storebrand Asset Management AS**
